@@ -9,6 +9,10 @@
 <title>Getting info from child to parent</title>
 </head>
 <body>
-	
+	<mine:Menu>
+		<mine:MenuItem itemValue="Dogs"/>
+		<mine:MenuItem itemValue="Cats"/>
+		<mine:MenuItem itemValue="Horses"/>
+	</mine:Menu>
 </body>
 </html>
