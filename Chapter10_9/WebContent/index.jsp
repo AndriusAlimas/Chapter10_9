@@ -8,6 +8,11 @@
 <title>Welcome page</title>
 </head>
 <body>
-
+	<h1>A Tag can call its Parent Tag</h1>
+	<br>
+	<ul>
+		<li><a href="example1.jsp">Classic tag nesting getParent() to see how deep the nesting goes...</a></li>
+	</ul>
+	
 </body>
 </html>
