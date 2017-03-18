@@ -14,6 +14,7 @@
 		<li><a href="example1.jsp">Classic tag nesting getParent() to see how deep the nesting goes...</a></li><br>
 		<li><a href="example2.jsp">Simple tags can have Classic parents</a></li><br>
 		<li><a href="example3.jsp">Getting info from child to parent</a></li><br>
+		<li><a href="example4.jsp">Getting an arbitrary ancestor</a></li><br>
 	</ul>
 	
 </body>

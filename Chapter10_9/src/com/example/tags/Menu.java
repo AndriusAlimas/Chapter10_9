@@ -14,6 +14,10 @@ public class Menu extends TagSupport{
 		items.add(item);
 	}
 	
+	public ArrayList getItems(){
+		return items;
+	}
+	
 	public int doStartTag()throws JspException{
 		// Don't forget to reset the ArrayList in doStartTag(), since the tag handler might
 		// be reused by the Container:

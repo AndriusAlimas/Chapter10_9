@@ -43,4 +43,11 @@
 			<rtexprvalue>true</rtexprvalue>r
 		</attribute>
 	</tag>
+	
+	<tag>
+		<name>FindAncestor</name>
+		<tag-class>com.example.tags.FindAncestor</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+	
 </taglib>
